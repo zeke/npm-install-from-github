@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "echo hello from the tests :)"
+  },
+  "dependencies": {
+    "node-i18n": "github:nodejs/i18n"
+  }
+}
